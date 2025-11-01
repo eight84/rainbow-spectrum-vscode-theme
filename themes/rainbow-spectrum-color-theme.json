@@ -13,9 +13,15 @@
     "statusBar.background": "#121d34",
     "panel.background": "#0b1220",
     "panel.border": "#121d34",
-    "titleBar.activeBackground": "#121d34",
+    "titleBar.activeBackground": "#0c121f",
     "button.background": "#ff6b6b",
-    "button.foreground": "#000000"
+    "button.foreground": "#000000",
+    "breadcrumb.background": "#191a2d",
+    "breadcrumb.foreground": "#f8f8f2",
+    "editorHoverWidget.background": "#191a2d",
+    "editorSuggestWidget.background": "#191a2d",
+    "list.hoverBackground": "#191a2d",
+    "quickInput.background": "#191a2d"
   },
   "tokenColors": [
     {
