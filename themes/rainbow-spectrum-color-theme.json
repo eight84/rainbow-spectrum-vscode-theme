@@ -21,7 +21,18 @@
     "editorHoverWidget.background": "#191a2d",
     "editorSuggestWidget.background": "#191a2d",
     "list.hoverBackground": "#191a2d",
-    "quickInput.background": "#191a2d"
+    "quickInput.background": "#191a2d",
+    "chat.slashCommandBackground": "#272131",
+    "chat.slashCommandForeground": "#f8f8f2",
+    "chat.avatarBackground": "#272131",
+    "chat.avatarForeground": "#f8f8f2",
+    "chatCodeBlock.background": "#0b1220",
+    "input.background": "#272131",
+    "input.foreground": "#f8f8f2",
+    "input.border": "#121d34",
+    "inputOption.activeBorder": "#ff6b6b",
+    "inputValidation.errorBackground": "#ff6b6b",
+    "inputValidation.errorBorder": "#ff6b6b"
   },
   "tokenColors": [
     {
